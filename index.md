@@ -7,4 +7,4 @@ I've done most of the tech jobs: dev, senior, tech lead, architect, data, infra 
 
 Oh and I'm loud, excitable, driven and wear shirts that some (ok: most) would call awful. But other than that I'm generally pretty nice.
 
-I speak for [The Children's Society](https://www.childrenssociety.org.uk/) and at tech events, study business & management at the Open University and I'm a Principal Consultant for an amazing company called [Infinity Works](https://www.infinityworks.com) , which allows me to do lots of fun and challenging tech and business stuff.
+I speak for [The Children's Society](https://www.childrenssociety.org.uk/) and at tech events, study business & management at the Open University and I'm a Principal Consultant for an amazing company called [Infinity Works](https://www.infinityworks.com), a job that allows me to do lots of fun and challenging tech and business stuff.
